@@ -1,0 +1,2 @@
+# mips
+Michigan Psychedelic Society
